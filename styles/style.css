@@ -1,9 +1,32 @@
+body {
+  background: #83baf0;
+}
+
+h1 {
+  color: #bbe4e9;
+  text-align: center;
+  margin: 30px;
+}
 .links {
   display: flex;
   justify-content: center;
   color: aqua;
 }
 
-a {
+.link {
   margin: 20px;
+  color: #bbe4e9;
+}
+
+.paragraph {
+  color: white;
+  margin-bottom: 20px;
+}
+
+.sea {
+  text-align: center;
+  margin-top: 30px;
+}
+img {
+  border-radius: 6px;
 }
